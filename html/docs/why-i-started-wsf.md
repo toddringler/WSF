@@ -1,6 +1,6 @@
 # Why I Started Wild Steelhead Futures
 
-I started Wild Steelhead Futures (WSF) because I am concerned that changing ocean conditions may threaten the long-term survival of wild steelhead across their entire range. I care deeply about protecting wild places and the creatures whose lives depend on them. Wild steelhead connect mountainous headwater streams to the vast expanse of the Pacific Ocean. Their survival depends on conditions across that extraordinary range, yet responsibility for their conservation is divided among institutions, jurisdictions, and areas of expertise.
+I started Wild Steelhead Futures (WSF) because I am concerned that changing ocean conditions may threaten the long-term survival of wild steelhead across their entire range. I care deeply about protecting wild places and the creatures whose lives depend on them. Wild steelhead connect mountainous headwater streams to the vast expanse of the Pacific Ocean. Their survival depends on an unbroken chain of suitable conditions across that extraordinary range, yet responsibility for their conservation is divided among institutions, jurisdictions, and areas of expertise.
 
 I bring decades of experience in environmental science, conservation, and public policy to this concern. Trained as a climate scientist, I conducted research on ocean dynamics and climate change, led a twenty-person climate modeling team at Los Alamos National Laboratory, helped coordinate climate science at the Department of Energy, and contributed to numerous international scientific programs.
 
