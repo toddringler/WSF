@@ -8,7 +8,7 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent
 PAGES = [
     ('why', 'why-i-started-wsf.md', 'Todd Ringler'),
-    ('hypothesis', 'foundational-hypothesis.md', 'The idea we are testing'),
+    ('premise', 'working-premise.md', 'The idea I am testing'),
     ('approach', 'initial-approach.md', 'From initial work to an informed decision'),
     ('census', 'census-project-description.md', 'Initial project'),
     ('marine', 'discussion-paper-description.md', 'Initial project'),

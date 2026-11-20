@@ -1,0 +1,9 @@
+# Working Premise
+
+Wild steelhead conservation is carried out by numerous organizations, working across jurisdictions, life stages, and environments. This federated approach has built substantial expertise and capability. It can also make it harder to develop a holistic understanding of the challenges facing wild steelhead across their range, and it can leave gaps: risks, issues, or conservation needs that fall between organizational mandates, geographic boundaries, or areas of responsibility, and for which no single institution has clear ownership.
+
+Gaps can also arise within mandates. Each institution balances wild steelhead against other legitimate responsibilities, such as fishing opportunity, hatchery production, hydropower, and water supply. Those trade-offs are real, and someone has to make them. WSF carries none of those responsibilities, which gives it the freedom to ask a narrow question: what do wild steelhead need to persist over the long term? WSF has its own vantage point too, and its work should face the same scrutiny as anyone's.
+
+I believe the wild steelhead conservation community would benefit from an independent initiative that brings a broad view to that narrow question, complementing existing work by integrating knowledge across disciplines and institutions, identifying gaps and systemic blind spots, and exploring strategic questions that extend beyond any one organization, jurisdiction, or conservation program.
+
+**Wild Steelhead Futures exists to test this premise: to ask what wild steelhead need across their whole range and life cycle, how well actions across the board meet those needs, and where an integrated perspective adds value. It will share its research, analysis, and strategic synthesis freely. If the evidence shows that existing organizations already cover the major risks, that is a useful finding too.**
