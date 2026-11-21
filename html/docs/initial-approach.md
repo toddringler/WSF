@@ -1,6 +1,6 @@
 # Wild Steelhead Futures: An Initial Approach
 
-The [working premise](working-premise.md) asks whether an independent, range-wide perspective could make a useful contribution to wild steelhead conservation. I will test that possibility through two initial projects, community feedback, and an assessment of whether further effort is warranted. I expect this initial phase, from the first projects through the assessment, to take about 12 months, concluding in late 2027.
+The [working premise](working-premise.md) asks whether a broad, independent view of what wild steelhead need to persist could make a useful contribution to wild steelhead conservation. I will test that possibility through two initial projects, community feedback, and an assessment of whether further effort is warranted. I expect this initial phase, from the first projects through the assessment, to take about 12 months, concluding in late 2027.
 
 ## Two Initial Projects
 
@@ -10,7 +10,7 @@ Both projects will begin by examining relevant existing work. Their value will d
 
 ### A Census of NGO Actions to Protect Wild Steelhead
 
-**Proposed project:** A freely accessible, web-based census of actions by nongovernmental organizations intended to protect wild steelhead. The aim is to build toward a comprehensive resource spanning the wild steelhead range, with information that people can explore by geography, life stage, biological threat, and type of action.
+**Proposed project:** A freely accessible, web-based census of actions by nongovernmental organizations intended to protect wild steelhead. It is a first step toward credibly identifying gaps between biological risks and conservation actions: a documented, range-wide picture of NGO work that people can explore by geography, life stage, biological threat, and type of action.
 
 An initial version will establish the structure and populate a manageable portion of the census, making its coverage and limitations clear. It will give the community something to use and assess: Does bringing this information together make it easier to understand who is doing what, find relevant expertise, and see connections or gaps?
 
@@ -18,7 +18,7 @@ An initial version will establish the structure and populate a manageable portio
 
 **Proposed project:** A discussion of the biological risks wild steelhead face during the marine phase and how existing conservation actions address those risks. The work will bring together available knowledge about marine survival, identify relevant conservation efforts, and examine their alignment with the risks described, including what is already known about their effectiveness.
 
-The purpose is to identify where actions appear responsive to known risks, where important risks may receive limited attention, and where uncertainty prevents a clear assessment. It will also consider what can realistically be addressed through conservation action. Finally, it will test, with a concrete example, whether looking across organizational and geographic boundaries reveals anything new.
+The aim is to bring into view where actions appear responsive to known risks, where important risks may receive limited attention, and where uncertainty prevents a clear assessment. It will also examine how marine survival has changed and the competing explanations for those changes, and consider which risks can be addressed directly and how those that cannot should inform decisions elsewhere. Finally, it will test, with a concrete example, whether looking across organizational and geographic boundaries reveals anything new.
 
 ## Seek Feedback and Learn How the Work Is Used
 
@@ -52,7 +52,7 @@ The initial work will follow a few practical principles:
 
 - **Keep the scope manageable.** Match project commitments to available time, expertise, and resources, with clear responsibilities and completion points.
 - **Make the work credible.** Use appropriate sources, methods, and review, including review by fisheries biologists and others with relevant expertise; distinguish evidence from interpretation and make uncertainty explicit.
-- **Maintain independence and transparency.** Disclose funding, affiliations, and potential conflicts of interest.
+- **Maintain independence and transparency.** Disclose funding, affiliations, and potential conflicts of interest. These are listed on the [disclosures](disclosures.md) page.
 - **Make the work open and usable.** Share outputs, methods, and supporting materials in accessible forms. Software will be released under an open-source license, and original written content and database materials under appropriate Creative Commons licenses, so the community can freely access, use, adapt, and share the work.
 - **Respect contributors and their knowledge.** Honor the rights, responsibilities, and knowledge of Tribes and First Nations and other contributors, including any limits on sharing information.
 

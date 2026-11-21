@@ -12,6 +12,7 @@ PAGES = [
     ('approach', 'initial-approach.md', 'From initial work to an informed decision'),
     ('census', 'census-project-description.md', 'Initial project'),
     ('marine', 'discussion-paper-description.md', 'Initial project'),
+    ('disclosures', 'disclosures.md', 'Transparency'),
 ]
 ROUTES = {filename: page for page, filename, _ in PAGES}
 

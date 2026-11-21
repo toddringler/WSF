@@ -32,7 +32,7 @@ Organizations will be identified starting from known groups and expanding throug
 
 ## What Counts as an Action
 
-An action is a distinct project, program, or policy effort that an organization undertakes to protect wild steelhead. Each entry will describe what is being done, where, and which conservation need it addresses. An organization’s general mission or statement of concern will not, by itself, count as an action.
+An action is a distinct project, program, or policy effort that an organization undertakes to protect wild steelhead. Each entry will describe what is being done, where, and which biological threat it addresses. An organization’s general mission or statement of concern will not, by itself, count as an action.
 
 ## Approach
 
