@@ -4,7 +4,13 @@
 
 ## Purpose
 
-Create a freely accessible, web-based census of actions by nongovernmental organizations intended to protect wild steelhead. The census will help people understand who is doing what across the wild steelhead range, find relevant work and expertise, and explore connections or potential gaps in conservation efforts.
+Create a freely accessible, web-based census of actions by nongovernmental organizations intended to protect wild steelhead: a documented, range-wide answer to the question of what the NGO community is doing, where, and against which threats. The census will provide the baseline for examining how conservation actions align with the biological risks wild steelhead face, and a practical resource for finding relevant work and expertise.
+
+## Motivation
+
+A first step toward credibly identifying gaps between the biological risks facing wild steelhead and conservation actions is answering a basic question: what is the full scope of NGO work to protect wild steelhead? Without a reasonably complete answer, a claimed gap is only an impression. A thorough census also protects any one organization from being judged on an incomplete picture of the entire community's effort.
+
+Answering that question is harder than it sounds. Wild steelhead conservation is carried out largely watershed by watershed, by many organizations working on different parts of the range and the life cycle. Each organization knows its own work well, but it can be difficult to see the whole: which threats are receiving attention, where, and from whom.
 
 I am starting with nongovernmental organizations because they often connect scientific knowledge to conservation action and can respond quickly to emerging needs. Their work offers a useful window into how conservation priorities are being translated into action on the ground.
 

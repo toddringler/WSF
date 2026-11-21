@@ -4,19 +4,21 @@
 
 ## Purpose
 
-Examine how well conservation efforts are addressing ocean-related risks to wild steelhead survival.
+Examine how well conservation efforts are addressing ocean-related risks to wild steelhead survival. By considering biological risks and conservation actions together, the paper aims to bring into view conservation needs that may be difficult to see from the perspective of any single organization or jurisdiction.
+
+## Motivation
 
 Concern about changing ocean conditions motivates this focus on the marine phase, a concern this paper is meant to test, not assume.
 
-A common view in steelhead conservation is that little can be done about the ocean, so effort is best focused on fresh water, where actions can make a direct difference. That focus may be right, but it is often unclear whether it is the outcome of structured decision-making informed by an assessment of risks across the full life cycle, or the result of ruling out marine-phase options from the start. Whether a risk is manageable cannot be known until the risks across the whole life cycle have been identified and assessed. Where ocean information is used today, it often informs year-to-year decisions, such as forecasting returns and setting fishing seasons, rather than long-term conservation strategy.
+A common view in steelhead conservation is that little can be done about the ocean, so effort is best focused on fresh water, where actions can make a direct difference. That focus may be right. What is often unclear is how it was reached: through a structured assessment of risks across the full life cycle, or by concentrating on the parts of the life cycle within each organization's reach. The distinction matters, because whether a risk is manageable cannot be known until it has been identified and assessed.
 
-Part of the reason may be structural. Much conservation is organized around individual streams and watersheds, and success is often measured by the number of fish returning to them. Every one of those populations shares the same ocean, but no watershed group is responsible for it. The ocean becomes everyone's concern and no one's responsibility, and a poor ocean year can become an explanation for low returns rather than a subject of study.
+One reason for the freshwater focus may be structural. Much conservation is organized around individual streams and watersheds, and success is often measured by the number of fish returning to them. Every one of those populations shares the same ocean, but no watershed group is responsible for it. The ocean becomes everyone's concern and no one's responsibility, and a poor ocean year can become an explanation for low returns rather than a subject of study.
 
 Risks that cannot be changed directly can still shape decisions everywhere else. Survival at sea depends in part on the size, timing, and condition of fish when they leave fresh water, so some marine-phase risk may be influenced through freshwater actions. And where the ocean cannot be managed, populations can be made better able to withstand it, by protecting the life-history and genetic diversity that keep a poor ocean year from affecting every population the same way.
 
-The most basic problem may be that the causes of changing marine survival are not well understood. Ocean temperatures, competition with abundant pink salmon, predation, and changes in prey have all been proposed. Without a clearer picture, it is difficult to judge which risks matter most, which can be addressed, and where conservation resources would do the most good.
+Underlying all of this is a basic gap in knowledge: the causes of changing marine survival are not well understood. Ocean temperatures, competition with abundant pink salmon, predation, and changes in prey have all been proposed. Until the picture is clearer, it is difficult to judge which risks matter most, which can be addressed, and where conservation resources would do the most good.
 
-By considering biological risks and conservation actions together, the paper will identify conservation needs that may be difficult to see from the perspective of any single organization or jurisdiction.
+This paper will not resolve these questions. Its aim is narrower: to bring together what is already known about marine-phase risks and the conservation response, set out clearly what remains uncertain, and help the conservation community decide which questions deserve more attention.
 
 ## Initial Scope
 
