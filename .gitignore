@@ -4,3 +4,6 @@ __pycache__/
 
 # Generated website; rebuilt locally and by GitHub Actions
 /html/index.html
+
+# Private working notes (not for the public repository)
+notes/
